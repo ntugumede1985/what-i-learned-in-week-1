@@ -3,7 +3,6 @@
 * HTML
 * Flow Chart
 * Human Resources Machine
---
 # Week-1 Concepts
 * HTML
   * The way things are displayed is through HTML
@@ -29,7 +28,6 @@
 --
 # Additional Resources
   * W3School
---
 # Challenges From Week-1
 * Shortcuts may interrupt work-flow
 * New tools does not always equal better work
